@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1000" height="500" fill="#020617"/>
+
+<circle cx="750" cy="220" r="6" fill="#0072CE"/>
+<text x="760" y="220" fill="white" font-size="14">Germany</text>
+
+<circle cx="720" cy="240" r="6" fill="#0072CE"/>
+<text x="730" y="240" fill="white" font-size="14">France</text>
+
+<circle cx="820" cy="310" r="6" fill="#0072CE"/>
+<text x="830" y="310" fill="white" font-size="14">India</text>
+
+</svg>
